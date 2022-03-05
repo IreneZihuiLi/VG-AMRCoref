@@ -1,5 +1,5 @@
 
-# Follow up work, 2021 summer
+# Readme
 ## 1.script note
 
 `vgae_edge.py`: a safe copy for vgae pretraining, allowing kld and edge predition, as well as edge type prediction. Edge type prediction doesn't help too much.
@@ -165,21 +165,4 @@ python train.py
 ## 4. Citation
 
 
-If you find our code is useful, please cite:
-```
-@inproceedings{fu-etal-2020-drts,
-    title = "{DRTS} Parsing with Structure-Aware Encoding and Decoding",
-    author = "Fu, Qiankun  and
-      Zhang, Yue  and
-      Liu, Jiangming  and
-      Zhang, Meishan",
-    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    month = jul,
-    year = "2020",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.acl-main.609",
-    doi = "10.18653/v1/2020.acl-main.609",
-    pages = "6818--6828",}
-```
-
+TBD
